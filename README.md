@@ -3,9 +3,9 @@
 My name is Mengqiao Chai, which is pronounced as *“Mun-chow”*. 
 
 - 🎓 I am currently a postdoctoral researcher at Ghent University, Belgium.
-- 🧠 My research regards human cognition, more specifically about the cognitive process of multitasking, and the cognitive flexibility that human have to flexibly regulate the task preparation process when navigating an uncertain world.
-- 🔬 To do this, I used tools in Cognitive Neuroscience, which is an combination of Experimental Psychology (e.g. human behavioral testing), Biology (e.g. Medical Imaging), and AI technology (e.g. Machine Learning and advanced analytics).
--  📊 In the meantime, I am also an data enthusiastic who is always keen to strengthen my tech stack in Data Engineering, Data Science, and ML.
+- 🧠 My research regards human cognition, more specifically about the cognitive process of multitasking, and the cognitive flexibility that human have to support dynamic regulation on task preparation process when navigating an uncertain world.
+- 🔬 To do this, I borrow tools from Cognitive Neuroscience, which is an combination of Experimental Psychology (e.g. human behavioral testing), Biology (e.g. Medical Imaging), and AI technology (e.g. Machine Learning and advanced analytics).
+-  📊 In the meantime, I am also a data enthusiastic who is always keen to learn and strengthen my tech stack in Data Engineering, Data Science, and ML.
 -  💻 I love developing web tools and tutorials to facilitate and illustrate data processing steps.
 
 #
